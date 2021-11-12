@@ -20,6 +20,6 @@ button.addEventListener('click', () => {
 		res1.value = -b / (2 * a).toFixed(2)
 		res2.value = -b / (2 * a).toFixed(2)
 	} else if (isNaN(discriminant) === true) {
-		confirm('Введи всьо нормально! Ok?)')
+		confirm('Введи все нормально!)')
 	}
 })
