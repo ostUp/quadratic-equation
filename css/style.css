@@ -45,6 +45,14 @@ input {
 	color: black;
 }
 
+.text-container{
+	padding: 0 10px;
+	text-align: center;
+}
+code{
+	white-space: nowrap
+}
+
 .container {
 	display: flex;
 	align-items: center;
